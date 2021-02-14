@@ -6,6 +6,8 @@ Google Doc:
 https://docs.google.com/document/d/1O5-qIBvy6kEe87fou5AGQ7VA5wKAOFOWSFszcSkFB5I/edit?usp=sharing
 
 
+Running instructions: run MLproject_JapaneseVowel.ipynb for the main part of our project's code.
+
 
 Copy of the google doc:
 1. Brainstorming
